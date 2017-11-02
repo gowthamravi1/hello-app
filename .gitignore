@@ -1,0 +1,8 @@
+/devenv/
+/htmlcov/
+/target/
+.coverage
+.project
+.pydevproject
+__pycache__
+.settings
